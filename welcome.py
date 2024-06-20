@@ -1,1 +1,1 @@
-print('destroy u')
+print('destroy me')
